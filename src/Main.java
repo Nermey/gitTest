@@ -11,7 +11,7 @@ public class Main {
     public static void println(String s) {
         System.out.println(s);
     }
-    //мой остров в океане ане ане ане ане
+    //пока санбой спал его вещи постирали
 }
 
 
